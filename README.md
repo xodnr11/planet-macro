@@ -35,7 +35,7 @@ pip install pyautogui pytesseract pillow opencv-python numpy keyboard pygetwindo
 ### ③ 품목 등록 (`① 품목 설정` 탭)
 | 항목 | 설명 |
 |---|---|
-| 검색어 | 경매장 검색창에 입력될 키워드 (예: `의 크리스탈`) |
+| 검색어 | 경매장 검색창에 입력될 키워드 |
 | 임계가 | 1번째 행이 이 값보다 **낮으면** 자동 구매 |
 | ▲▼ | 품목 순서 변경 (위 품목부터 로테이션) |
 | 🗑 삭제 | 품목 제거 |
@@ -83,4 +83,3 @@ pip install pyautogui pytesseract pillow opencv-python numpy keyboard pygetwindo
 - 매크로 켠 동안 마우스/키보드 건드리지 말 것
 - 화면 잠금/절전 시 멈춤
 - 게임 창이 다른 창에 가려지면 클릭 실패
-- **본 계정 사용 비추** (제재 위험 있음)
