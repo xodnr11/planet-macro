@@ -25,7 +25,7 @@ pip install pyautogui pytesseract pillow opencv-python numpy keyboard pygetwindo
 ## 🎮 사용 순서
 
 ### ① 게임 준비
-1. 메이플 플래닛 실행 → 경매장 열기
+1. 경매장 열기
 2. 게임 창 크기를 **1282 × 752** 로 맞춤 (창 모드 최소 크기)
 
 ### ② 윈도우 정렬
